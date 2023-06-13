@@ -1,2 +1,2 @@
 # LibraryManagementSystem
-I have created this library management system which can be used by admin , teacher and students
+The Library Management System is a comprehensive software solution developed using Java and MySQL. It provides an efficient and user-friendly interface for managing library operations, including book management, member management, and borrowing/returning books
